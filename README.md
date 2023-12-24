@@ -2,7 +2,7 @@
 
 Welcome to the Facebook Login Page project! This simple HTML and CSS project aims to replicate the Facebook login page interface. 
 
-Facebook Login Page Preview image ![image](https://github.com/vera24brn/facebook-log-in-clone/blob/master/Preview_Facebook-clone.jpeg)
+**Facebook Login Page** Preview image ![image](https://github.com/vera24brn/facebook-log-in-clone/blob/master/Preview_Facebook-clone.jpeg)
 
 ## Project Structure
 •	**index.html:** Contains the HTML structure of the Facebook login page.
